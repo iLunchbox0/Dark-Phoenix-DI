@@ -1,0 +1,2215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="Paragon_Alligator">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>                
+	<type name="Paragon_Alligator_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+   	</type>                
+	<type name="Paragon_Anzio">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Anzio_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+    <type name="Paragon_AS50">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+    <type name="Paragon_AX50_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_AX50_Grey">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_AX50_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_AXMC">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Blaze_Blue">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Blaze_Red">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Blaze_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Delta_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Delta_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_DVL10">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_DVL10S">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Gevar">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Kalamit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_KR65_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_KR65_White">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Lynx_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M82_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M82_Grey">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M82_Green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M82_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M100">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M100_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M200_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M200_Grey">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M200_White">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M300">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>	 
+	</type>                
+	<type name="Paragon_M300_Grey">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M300_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_MRAD">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_NTW">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_R700">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>		
+	</type>                
+	<type name="Paragon_Remington_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Remington_Blue">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Remington_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Rogue">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_SnowOwl">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_SRS">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_SV98">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_VSSK">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_XR80_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_NTS_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_NTS_White">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_XR80_White">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M60">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>               
+	<type name="Paragon_M240">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>               
+	<type name="Paragon_M249">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_PKM">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_PKP">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_AR15">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_HK">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_HT">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_MCX_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_MCX_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_MK14_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_MK14_White">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_SA58">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_SR25_Green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_SR25_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_SR25_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Scar">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Scar_H">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Scar_L">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_MP7_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_MP7_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_MPX_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Scorpion_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Vector_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Vector_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_MDR_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_MDR_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Ammo_Plasma">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Ammo_20mm">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Ammo_50">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Ammo_12x55">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Ammo_408">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Ammo_338">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Ammo_300BLK">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_AFG_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_AFG_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_AFG_Green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Bipod_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Bipod_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Bipod_Green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_ForeGrip_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_ForeGrip_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_ForeGrip_Green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_StubbyGrip_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_StubbyGrip_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_StubbyGrip_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Universal_Sup_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Universal_Sup_Green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Universal_Sup_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Universal_Sup_Camo">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_50BMG_Sup_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_50BMG_Sup_Grey">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_50BMG_Sup_Green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_50BMG_Sup_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_50BMG_Sup_Camo">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_408_Sup">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_338_Sup_Grey">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_338_Sup_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Combat_Sup_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Combat_Sup_Green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Combat_Sup_Tan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_SMG_Sup_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_NTS_5Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_M249_200Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_SR25_25Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_SnowOwl_10Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Alligator_5Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Anzio_3Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_AS50_5Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_AX50_7Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_AXMC_5Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Delta_10Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_DVL10_10Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Gevar_7Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Kalamit_5Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_KR65_5Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Lynx_5Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M82_10Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M100_7Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M200_7Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_M300_7Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_MRAD_10Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_NTW_3Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_R700_7Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Remington_10Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Rogue_7Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_SRS_10Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_SV98_7Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_VSSK_5Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_XR80_5Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_M60_150Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_M240_250Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_PKM_250Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_PKP_250Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_SA58_25Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_SA58_50Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_AR15_30Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_HK_25Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_HT_25Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_Scar_H_25Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_Scar_5Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_Vector_30Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_Scorpion_30Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_MPX_30Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_9x19_60Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_MP7_30Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_MK14_20Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_MCX_15Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_308_50Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	</type>                
+	<type name="Paragon_Mag_300BLK_60Rnd">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>180</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+	  </type>
+</types>

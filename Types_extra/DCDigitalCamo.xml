@@ -1,0 +1,2515 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!--ACU Digital-->
+	<type name="DC_ACUDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ACUDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ACUDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ACUDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ACUDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ACUDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ACUDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ACUDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ACUDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ACUDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ACUDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ACUDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ACUDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Black Digital-->	
+	<type name="DC_BlackDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_BlackDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_BlackDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_BlackDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_BlackDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_BlackDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_BlackDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_BlackDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_BlackDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_BlackDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_BlackDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_BlackDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_BlackDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Dark ACU Digital-->	
+	<type name="DC_DarkACUDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DarkACUDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DarkACUDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DarkACUDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DarkACUDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DarkACUDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DarkACUDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DarkACUDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DarkACUDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DarkACUDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DarkACUDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DarkACUDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DarkACUDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Desert Digital-->
+	<type name="DC_DesertDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DesertDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DesertDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DesertDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DesertDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DesertDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DesertDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DesertDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DesertDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DesertDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DesertDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DesertDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_DesertDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Grassy-->
+	<type name="DC_Grassy_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_Grassy_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_Grassy_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_Grassy_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_Grassy_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_Grassy_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_Grassy_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_Grassy_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_Grassy_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_Grassy_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_Grassy_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_Grassy_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_Grassy_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Marpat Digital-->
+	<type name="DC_MarpatDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_MarpatDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_MarpatDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_MarpatDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_MarpatDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_MarpatDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_MarpatDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_MarpatDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_MarpatDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_MarpatDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_MarpatDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_MarpatDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_MarpatDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Navy Digital-->
+	<type name="DC_NavyDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_NavyDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_NavyDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_NavyDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_NavyDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_NavyDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_NavyDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_NavyDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_NavyDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_NavyDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_NavyDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_NavyDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_NavyDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Pink Digital-->
+	<type name="DC_PinkDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PinkDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PinkDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PinkDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PinkDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PinkDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PinkDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PinkDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PinkDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PinkDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PinkDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PinkDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PinkDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Pure Black-->	
+	<type name="DC_PureBlack_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PureBlack_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PureBlack_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PureBlack_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PureBlack_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PureBlack_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PureBlack_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PureBlack_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PureBlack_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PureBlack_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PureBlack_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PureBlack_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_PureBlack_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Red Digital-->
+	<type name="DC_RedDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Red Grey Scale-->
+	<type name="DC_RedGreyScale_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedGreyScale_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedGreyScale_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedGreyScale_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedGreyScale_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedGreyScale_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedGreyScale_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedGreyScale_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedGreyScale_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedGreyScale_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedGreyScale_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedGreyScale_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_RedGreyScale_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Toxic Digital-->
+	<type name="DC_ToxicDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ToxicDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ToxicDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ToxicDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ToxicDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ToxicDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ToxicDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ToxicDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ToxicDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ToxicDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ToxicDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ToxicDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_ToxicDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Urban Digital-->
+	<type name="DC_UrbanDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_UrbanDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_UrbanDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_UrbanDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_UrbanDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_UrbanDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_UrbanDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_UrbanDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_UrbanDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_UrbanDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_UrbanDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_UrbanDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_UrbanDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Winter Digital-->	
+	<type name="DC_WinterDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WinterDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WinterDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WinterDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WinterDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WinterDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WinterDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WinterDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WinterDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WinterDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WinterDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WinterDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WinterDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Woodland Digital-->
+	<type name="DC_WoodlandDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WoodlandDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WoodlandDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WoodlandDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WoodlandDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WoodlandDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WoodlandDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WoodlandDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WoodlandDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WoodlandDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WoodlandDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WoodlandDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_WoodlandDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+<!--Yellow Digital-->
+	<type name="DC_YellowDigital_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_YellowDigital_CargoPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_YellowDigital_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_YellowDigital_JungleBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_YellowDigital_OMNOGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_YellowDigital_TortillaBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_YellowDigital_Helmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_YellowDigital_PlateCarrierVest">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_YellowDigital_Pouches">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_YellowDigital_PlateCarrierHolster">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_YellowDigital_GhillieHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_YellowDigital_GhillieSuit">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+	<type name="DC_YellowDigital_GhillieWrap">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+    </type>
+</types>	

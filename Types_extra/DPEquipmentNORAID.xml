@@ -1,0 +1,1844 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <!--ZomPod-->
+    <type name="ZomPod">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_PurpleGrunge">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_TealGrunge">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_BlueGrunge">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_PinkGrunge">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_RedGrunge">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_LtGreenGrunge">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_GreenGrunge">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_GoldGrunge">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_BlackGrunge">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_Mountains">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_Geode">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_WaterSkull">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_GasMask">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_DayZ">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_Galaxy">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_RickandMorty">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="ZomPod_1776">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Balloons">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_bestrapperever">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Cancelled">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_ClownWorld">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Coronavirus">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Dummies">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_5150">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_EverybodyHatesMe">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_FakeWoke">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Ghost">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_IDontCare">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Naked">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Names">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_NoLivesMatter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_NoResponse">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_PeopleSoStupid">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_PoliticallyIncorrect">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Scars">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Sellout">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Sheeple">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Snowflakes">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_StraightWhiteMale">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_TheMusicIndustry">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_TheSystem">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_TryingToKillMe">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Whiteboy">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_AllMyLife">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_MartialLaw">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_CrownontheheadoftheRatKing">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_DiaryofanArsonist">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_HellOrNewOrleans">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_IntheAfter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_IrishStanddown">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Shroud">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_SingleBarrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Southbound">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_TheGreatEscape">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_TheGhostInside">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_GravelMouth">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_12Bodies1Grave">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Cobblestones">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_IDecay">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Knockaround">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_OathoftheHopeless">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_AnybodyInTheWorld">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_LikeAnimals">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_OceanSpray">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_PerpetualGroove">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_CannibalRemix">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_EminemRemix">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_FullCircleRemix">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_GeminiSyndromeRemix">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_GivenSixRemix">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_LMFAORemix">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_NickelbackRemix">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_5150">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_BitchesbytheDozen">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Cake">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Red">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_SuicideGrip">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Persephone">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_CosmicPoweroftheInfinite">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_CurseofDarkness">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_HighwaytoOblivion">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_JudgementDay">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_MidnightMadness">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_RingofFire">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_TroopersoftheStars">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_InDefiance">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="SDCard_Backwoods">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <!--DPEquipmentNORAIDS-->
+    <type name="DP_AdminHatchet">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_Hatchet">
+        <nominal>50</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>30</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <category name="tools"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+    </type>
+    <type name="DP_Hammer">
+        <nominal>50</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>40</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+    </type>
+    <type name="DP_HuntingKnife">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <category name="tools"/>
+        <usage name="Hunting"/>
+    </type>
+    <type name="DP_Screwdriver">
+        <nominal>50</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>40</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+    </type>
+    <type name="DP_CombatKnife">
+        <nominal>20</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <value name="Tier15"/>
+        <value name="Tier1"/>
+        <value name="Tier13"/>
+        <value name="Tier12"/>
+        <value name="Tier5"/>
+        <value name="Tier8"/>
+        <value name="Tier11"/>
+        <value name="Tier6"/>
+        <value name="Tier10"/>
+        <value name="Tier7"/>
+        <value name="Tier9"/>
+        <value name="Tier17"/>
+    </type>
+    <type name="DP_Saw">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_Shovel">
+        <nominal>50</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>40</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_ElectronicRepairKit">
+        <nominal>25</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_Pliers">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_CheapFlashlight">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_SharpeningStone">
+        <nominal>80</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>60</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_Heatpack">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_WeaponCleaningKit">
+        <nominal>50</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>25</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Hunting"/>
+        <value name="Tier1"/>
+        <value name="Tier4"/>
+        <value name="Tier13"/>
+        <value name="Tier5"/>
+        <value name="Tier8"/>
+        <value name="Tier7"/>
+        <value name="Tier17"/>
+    </type>
+    <type name="DP_SewingKit">
+        <nominal>50</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>25</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Village"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_LeatherSewingKit">
+        <nominal>80</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>60</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+        <usage name="Village"/>
+    </type>
+    <type name="DP_9v">
+        <nominal>100</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>60</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <category name="tools"/>
+        <usage name="Police"/>
+        <usage name="Farm"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+        <usage name="Firefighter"/>
+        <usage name="Town"/>
+        <usage name="Industrial"/>
+        <usage name="Office"/>
+        <usage name="School"/>
+        <usage name="Prison"/>
+        <usage name="Lunapark"/>
+        <value name="Tier9"/>
+        <value name="Tier13"/>
+        <value name="Tier11"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+        <value name="Tier8"/>
+        <value name="Tier7"/>
+        <value name="Tier10"/>
+        <value name="Tier1"/>
+        <value name="Tier3"/>
+        <value name="Tier6"/>
+        <value name="Tier15"/>
+    </type>
+    <type name="Admin_9v">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_CarBattery">
+        <nominal>40</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="Admin_CarBattery">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_TruckBattery">
+        <nominal>40</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="Admin_TruckBattery">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_BatteryCharger">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <usage name="Industrial"/>
+        <category name="tools"/>
+    </type>
+    <type name="DP_Bandage">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>15</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <category name="tools"/>
+        <usage name="Military"/>
+        <usage name="Police"/>
+        <usage name="Hunting"/>
+        <usage name="Medic"/>
+    </type>
+    <type name="DP_Vitamin">
+        <nominal>50</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>40</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <category name="tools"/>
+        <usage name="Medic"/>
+        <usage name="Coast"/>
+    </type>
+    <type name="DP_Tetra">
+        <nominal>50</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>30</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+        <category name="tools"/>
+        <usage name="Coast"/>
+        <usage name="Firefighter"/>
+        <usage name="Medic"/>
+    </type>
+<!--DP AIRSTRIKE-->
+    <type name="DP_ArtillerySmokeGrenade">
+        <nominal>10</nominal>
+        <restock>1800</restock>
+        <lifetime>14400</lifetime>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+    </type>
+<!--DC MURALS-->
+    <type name="DP_Weaponry_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_TMNT_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_ZombieCaptainAmerica_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_Sponsors_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_Spiderman_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_SniperGhost_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_SciFiSoldiers_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_Joker_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_JackOGunner_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_HauntedVillage_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_DeadPool_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_Zombies_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_BlackPurpleDragon_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <type name="DP_BatmanJoker_Mural">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+    <!--DPBarrels-->
+    <type name="DP_TrippyLeaf_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_Tinkerbell_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_TattooGrunge_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_StormTrooper_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_SpaceTiger_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_RainbowHazmat_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_R2D2_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_PurpleSkull_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_Purge_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_Tiana_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_SnowWhite_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_Merida_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_Cinderella_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_Belle_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_Ariel_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_Anna_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_PinupRocket_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_PinupLoveseat_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_PinupFirefighter_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_PinupClassic_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_NorseBird_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_NeonWolf_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_NeonLion_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_NeonJaguar_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_MythicalFenrir_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_MashHotLips_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_Mandolorian_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_Graffiti_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_DeadPool_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_BlueSkull_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_ApexLifeline_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_AntiSocial_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_Alice_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <type name="DP_420Life_Barrel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+    </type>
+    <!--DPSeachests-->
+    <type name="DP_DarkPhoenix_SeaChest">
+        <nominal>5</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>3</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="DP_DCM8ION_SeaChest">
+        <nominal>3</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="DP_DeadPool_SeaChest">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="DP_VikingSkull_SeaChest">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="DP_BlackDigital_SeaChest">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="DP_BlueFrost_SeaChest">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="DP_Dragon_SeaChest">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="DP_Punisher_SeaChest">
+        <nominal>2</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <!--DPNails-->
+    <type name="DP_NailBox">
+        <nominal>30</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="DP_Nails">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+        <tag name="ground"/>
+        <usage name="Industrial"/>
+        <usage name="Farm"/>
+    </type>
+    <type name="PowerGeneratorExtra">
+        <nominal>20</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="BatteryExtraCharger">
+        <nominal>20</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="CanisterGasolineExtra">
+        <nominal>40</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <category name="tools"/>
+        <usage name="Industrial"/>
+    </type>
+</types>

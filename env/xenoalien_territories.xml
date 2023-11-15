@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="2779381760">
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2559.52" z="13441.9" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="3094.38" z="13462" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2837.55" z="13873.5" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2577.65" z="14040.6" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2562.63" z="13672.3" r="50"/>
+        <zone name="Graze" smin="0" smax="0" dmin="0" dmax="0" x="2683.47" z="13479.7" r="50"/>
+    </territory>
+</territory-type>

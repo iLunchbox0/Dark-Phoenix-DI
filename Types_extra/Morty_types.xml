@@ -1,0 +1,4579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<types>
+  <type name="TTC_KAC">
+    <nominal>15</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_MAS36">
+    <nominal>15</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="TTC_Winchester1873">
+    <nominal>15</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Farm"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_kar98k">
+    <nominal>15</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="TTC_R700">
+    <nominal>12</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="TTCSR25">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTCSR25_Desert">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTCSR25_Snow">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTCSR25_OD">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_HK416Tan">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_HK416OD">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_HK416Black">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_SG552">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_SG552_Wood">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_SG552_Black">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_SG550">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_SG550_Black">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_SG550_Pink">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="Mag_SG_30Rnd">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_M16">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AEK973">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_Universal_Suppressor_BLACK">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Universal_Suppressor_CAMO">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Buttstock">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Ammo_8mm">
+    <nominal>80</nominal>
+    <lifetime>7200</lifetime>
+    <restock>800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AmmoBox_8mm_20Rnd">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>800</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Buttstock2">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Buttstock3">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_M4DMR">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M4DMROD">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M4DMRDesert">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_Hndguard">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_HndguardOD">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_HndguardDesert">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_308Stanag">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_FD338">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_338mag_10rnd">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AmmoBox_338mm_10Rnd">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Ammo_338">
+    <nominal>60</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AACHoney">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AACHoney_B">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Mk47">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AACHoney_300blk">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_AACHoney_300blk_B">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_300Stanag">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_300Cmag">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_AmmoBox_300blk_20rnd">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Ammo_300blk">
+    <nominal>30</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Buttstock_Honey">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Honey_Suppressor">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_M24">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M24_Bjorn">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M24_Woodland">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M24_WoodlandOld">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M24mag_5rnd">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_SCARH">
+    <nominal>12</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_SCARHBlack">
+    <nominal>12</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_SCARHMag">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_SCARL">
+    <nominal>6</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_SCARLBlack">
+    <nominal>6</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_SCARLSnow">
+    <nominal>6</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_M16A4">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>7</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Beowulf">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_50Beo_mag">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AmmoBox_50Beo_20rnd">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Ammo_50Beo">
+    <nominal>50</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Universal_Suppressor_Tan">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Universal_Suppressor_Snow">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_ModDMR_556">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMRTan_556">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMRTwotone_556">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMRCamo_556">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMRDigiTan_556">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMRUPC_556">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMRSnow_556">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMR_762">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMRTan_762">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMRTwotone_762">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMRCamo_762">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMRDigiTan_762">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMRUPC_762">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_ModDMRSnow_762">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_DMR_Suppressor">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_M82">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M82_Tan">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M82_5rnd_Mag">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_556Stanag_30rnd_Digitan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Stanag_30rnd_Tan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Stanag_30rnd_UPC">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Stanag_100rnd">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_556Stanag_100rnd_camo">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_556Stanag_100rnd_Digitan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_556Stanag_100rnd_Tan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_556Stanag_100rnd_UPC">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_30rnd">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_30rnd_camo">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_30rnd_Digitan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_30rnd_Tan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_30rnd_UPC">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_40rnd">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_40rnd_camo">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_40rnd_Digitan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_40rnd_Tan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_40rnd_UPC">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_100rnd">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_100rnd_camo">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_100rnd_Digitan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_100rnd_Tan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_556Pmag_100rnd_UPC">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_762Stanag_20rnd">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_762Stanag_20rnd_camo">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_762Stanag_20rnd_Digitan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_762Stanag_20rnd_Tan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_762Stanag_20rnd_UPC">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_762Stanag_10rnd">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_762Stanag_10rnd_camo">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_762Stanag_10rnd_Digitan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_762Stanag_10rnd_Tan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_762Stanag_10rnd_UPC">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_Bipod">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_DMR_AFG">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_DMR_AFG_Green">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_DMR_AFG_Tan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_DMR_VFG">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_DMR_VFG_Green">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_DMR_VFG_Tan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Ammobox_50BMG_10rnd">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_Ammo_50BMG">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_Buttstock_Camo">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Buttstock_Digitan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Buttstock_Tan">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Buttstock_UPC">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_DMR_RifleFrame">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_Barrel_762">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_DMR_Barrel_556">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_HKG28">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_ButtstockHK">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_LeeEnfield">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="TTC_M1Garand">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="TTC_M4Tac">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_Buttstock_Morty">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_M14">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M14_Mag_20rnd">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_MRAD">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_338mag_5rnd">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_XM2010">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_XM2010_10rnd">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AmmoBox_303_20Rnd">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Ammo_303">
+    <nominal>60</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AmmoBox_3006_20Rnd">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Ammo_3006">
+    <nominal>60</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AmmoBox_4570_20Rnd">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Ammo_4570">
+    <nominal>60</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AK12">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier7"/>
+    <value name="Tier8"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier14"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AK12_Worn">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier7"/>
+    <value name="Tier8"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier14"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Buttstock_AK12">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier7"/>
+    <value name="Tier8"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier14"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AK12_Drum_90rnd">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier7"/>
+    <value name="Tier8"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier14"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_G3">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_G3_Magazine_20rnd">
+    <nominal>8</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_G3_Optic">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_BugBuster">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_M14_Camo">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M14_Snow">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_Kimber">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+  </type>
+  <type name="Mag_Kimber1911_10Rnd">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_Mossberg">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Police"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_HK417">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_HK417_Magazine_20rnd">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_M14Suppressor">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier7"/>
+    <value name="Tier8"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier14"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Holo">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_M9">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_Mag_M9_15Rnd">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_AKMod">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_AKMod_Gold">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_AKMod_Snow">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_AKMod_Multi">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_AKMod_Digi">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_AKMod_Tan">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_AKModPK">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_AKModPK_Gold">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_AKModPK_Snow">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_AKModPK_Multi">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_AKModPK_Digi">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_AKModPK_Tan">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+  </type>
+  <type name="TTC_M110">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M110_Black">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_Maverick">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="TTC_R700_Black">
+    <nominal>14</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="TTC_AKMod_RifleFrame">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AKMod_Barrel_76239">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AKMod_Barrel_76254">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AKMod_bttstk">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_Gold_bttstk">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_Snow_bttstk">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_Multi_bttstk">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_Digi_bttstk">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_Tan_bttstk">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_762x54_30rnd">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_762x54_65rnd">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMOD_AFG">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_Suppressor">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_Hndguard">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_Gold_Hndguard">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_Snow_Hndguard">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_Multi_Hndguard">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_Digi_Hndguard">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_AKMod_Tan_Hndguard">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_HAMR">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AG3">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_AG3_Coupled_Magazine_40rnd">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_FAL">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_FAL_Magazine">
+    <nominal>16</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Coupled_FAL_Magazine">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_FAL_RIS_Hndgrd">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_FAL_Wood_Hndgrd">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_FAL_Poly_Hndgrd">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_FAL_Wood_Bttstck">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Raptr">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_Raptr_Drum_45rnd">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_M24_NEW_Wood">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M24_NEW_Black">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M24_NEW_Camo">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M24_NEW_CamoW">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_M24New_mag_5rnd">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AVS36">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="TTC_AVS36_Mag_10rnd">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="TTC_CAR15">
+    <nominal>12</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_M1903">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="TTC_MCX">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_MCX_Tan">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_MPXMCX1_Bttstck">
+    <nominal>6</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_MPXMCX1_Bttstck2">
+    <nominal>6</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_MPXMCX2_Bttstck">
+    <nominal>6</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AKM">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="TTC_Deagle">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_Deagle_Magazine_7rnd">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_Ammo_50AE">
+    <nominal>80</nominal>
+    <lifetime>7200</lifetime>
+    <restock>800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  <type name="TTC_Glock17">
+    <nominal>30</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Police"/>
+  </type>
+  <type name="TTC_Mag_Glock_17Rnd">
+    <nominal>40</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Police"/>
+  </type>
+  <type name="TTC_M9_Custom">
+    <nominal>30</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Police"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_Mag_M9_Custom_20Rnd">
+    <nominal>40</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>15</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Police"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_MP5SD">
+    <nominal>16</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_MPX">
+    <nominal>8</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_MPX_Mag_60rnd">
+    <nominal>16</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_MPX_Mag_30rnd">
+    <nominal>20</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_MCX_300blk">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_MCX_Tan_300blk">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_PP91">
+    <nominal>40</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Police"/>
+  </type>
+  <type name="TTC_PP91_Mag_20rnd">
+    <nominal>40</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Police"/>
+  </type>
+  <type name="TTC_UZI">
+    <nominal>16</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_UZI_Mag_30rnd">
+    <nominal>16</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_300Cmag_60rnd">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_M4Tac_Black">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_SVT40">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Farm"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_Mag_SVT40_10rnd">
+    <nominal>40</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Farm"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_SVT40_Bayonet">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Farm"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_SVT40_Optic">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Farm"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_MP7A1">
+    <nominal>16</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>4</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_MP7A1_Mag_40rnd">
+    <nominal>16</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Ammo_4630">
+    <nominal>80</nominal>
+    <lifetime>7200</lifetime>
+    <restock>800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AmmoBox_4630_20Rnd">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Pistol_Light">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier11"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_PistolSuppressor">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier11"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Razor">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Buttstock_CAR15">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_G28_Optic">
+    <nominal>10</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Aimpoint2000">
+    <nominal>20</nominal>
+    <lifetime>28800</lifetime>
+    <restock>180</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+  </type>
+  <type name="TTC_M4DMRSNOW">
+    <nominal>5</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_DMR_HndguardSnow">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_STG44">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Farm"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_STG44_Magazine_30rnd">
+    <nominal>40</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>10</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Farm"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_Ammo_792x33">
+    <nominal>80</nominal>
+    <lifetime>7200</lifetime>
+    <restock>800</restock>
+    <min>30</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AmmoBox_792x33_20Rnd">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+    <value name="Tier1"/>
+    <value name="Tier2"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier6"/>
+    <value name="Tier8"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_BAR">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Farm"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_BAR_Magazine_20rnd">
+    <nominal>20</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Farm"/>
+    <usage name="Village"/>
+  </type>
+  <type name="TTC_AWM">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier13"/>
+  </type>
+  <type name="TTC_AWM_Magazine_5rnd">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier1"/>
+    <value name="Tier4"/>
+    <value name="Tier5"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier12"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_GEVAR43">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_GEVAR43_Green">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_GEVAR43_Tan">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_GEVAR43_silver">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_GEVAR43_Magazine_10rnd">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier1"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_L85">
+    <nominal>8</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier1"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_TAVOR">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier1"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_TAVOR_DMR">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier1"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_TAVOR_Magazine_30rnd">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier1"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_TAVOR_Magazine_60rnd">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_VortexSE_Optic">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier1"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_VortexRHDAMG_Optic">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_Elcan">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier3"/>
+    <value name="Tier6"/>
+    <value name="Tier1"/>
+    <value name="Tier3"/>
+    <value name="Tier5"/>
+    <value name="Tier8"/>
+    <value name="Tier12"/>
+    <value name="Tier4"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier10"/>
+    <value name="Tier11"/>
+    <value name="Tier13"/>
+    <value name="Tier15"/>
+    <value name="Tier15"/>
+  </type>
+  <type name="TTC_AmmoBox_50AE">
+    <nominal>0</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Town"/>
+    <usage name="Village"/>
+    <usage name="Hunting"/>
+  </type>
+  <!--GOLD MORTYS-->
+  <type name="TTC_Deagle_Gold">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier16"/>
+  </type>
+  <type name="TTC_M9_Gold_Grip">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier7"/>
+    <value name="Tier9"/>
+    <value name="Tier16"/>
+  </type>
+  <type name="TTC_M82_gold">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>180</restock>
+    <min>0</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <category name="weapons"/>
+    <usage name="Military"/>
+    <value name="Tier14"/>
+  </type>
+</types>

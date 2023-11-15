@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<type name="DP_Patch_1776">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_AceReaper">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_BorderPatrol">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_CoffeeOrDie">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_DeathSquad">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_DidYouDie">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_DuctTape">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_EqualHate">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_FAAFO">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_FluffySimp">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_GiveMeCoffee">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_InRange">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_JustTheTip">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_LoneStarState">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_Mexico">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_MyPeaceSign">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_ProtectedByFAAFO">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_PullOut">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_RedBlueLine">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_Shenanigans">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_SusVan">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_TacosAfter">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_TerribleIdea">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_TexasCowboy">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_ThinLineAll">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_ToDoList">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_Unsupervised">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_VikingCartel">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_WTF">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_ZombieResponse">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+</types>

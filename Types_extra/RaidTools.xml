@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!--BREACHINGCHARGES-->
+	<type name="HDSN_BreachingCharge">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="HDSN_BreachingChargeHeavy">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+	</type>
+	<type name="HDSN_Explosive">
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>5</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<usage name="Police"/>
+		<usage name="Industrial"/>
+		<usage name="Military"/>
+		<usage name="Town"/>
+	</type>
+	<type name="HDSN_Charcoal">
+		<nominal>30</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>15</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<usage name="Police"/>
+		<usage name="Industrial"/>
+		<usage name="Military"/>
+		<usage name="Town"/>
+	</type>
+	<type name="HDSN_Sulfur">
+		<nominal>30</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>15</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<usage name="Police"/>
+		<usage name="Industrial"/>
+		<usage name="Military"/>
+		<usage name="Town"/>
+	</type>
+	<type name="HDSN_Gunpowder">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<usage name="Police"/>
+		<usage name="Industrial"/>
+		<usage name="Military"/>
+		<usage name="Town"/>
+	</type>
+	<type name="HDSN_Detonator">
+		<nominal>30</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>15</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<usage name="Police"/>
+		<usage name="Industrial"/>
+		<usage name="Military"/>
+		<usage name="Town"/>
+	</type>
+	<type name="HDSN_C4Sticks">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<usage name="Police"/>
+		<usage name="Industrial"/>
+		<usage name="Military"/>
+		<usage name="Town"/>
+	</type>
+	<type name="HDSN_C4NoWiring">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<usage name="Police"/>
+		<usage name="Industrial"/>
+		<usage name="Military"/>
+		<usage name="Town"/>
+	</type>
+	<type name="HDSN_C4Stick">
+		<nominal>20</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>10</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="weapons"/>
+		<usage name="Farm"/>
+		<usage name="Village"/>
+		<usage name="Police"/>
+		<usage name="Industrial"/>
+		<usage name="Military"/>
+		<usage name="Town"/>
+	</type>
+	<!--DPEQUIPMENTRAID-->
+	<type name="DP_Hacksaw">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Industrial"/>
+	</type>
+	<type name="DP_SledgeHammer">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Industrial"/>
+	</type>
+</types>

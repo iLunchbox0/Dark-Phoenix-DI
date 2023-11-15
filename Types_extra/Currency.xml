@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+	<type name="PhoenixCoin1">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+	<type name="PhoenixCoin1K">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+	<type name="PhoenixCoin1M">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+	<type name="PhoenixCoin5">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+	<type name="PhoenixCoin10K">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+	<type name="PhoenixCoin10">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+	<type name="PhoenixCoin20K">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+	<type name="PhoenixCoin25">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+		<type name="PhoenixCoin50K">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+	<type name="PhoenixCoin50">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+		<type name="PhoenixCoin100K">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+	<type name="PhoenixCoin100">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+</types>

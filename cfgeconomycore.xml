@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<economycore>
+    <classes>
+<!--
+These are rootclasses to be used by economy.
+Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
+Do not forget to add attribute act="car", if root class represents moveable vehicles
+-->
+        <rootclass name="DefaultWeapon" /> <!-- weapons -->
+        <rootclass name="DefaultMagazine" /> <!-- magazines -->
+        <rootclass name="Inventory_Base" /> <!-- inventory items -->
+        <rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->
+        <rootclass name="SurvivorBase" act="character" reportMemoryLOD="no" /> <!-- player characters -->
+        <rootclass name="DZ_LightAI" act="character" reportMemoryLOD="no" /> <!-- infected, animals -->
+        <rootclass name="CarScript" act="car" reportMemoryLOD="no" /> <!-- cars (sedan, hatchback, transitBus, V3S, ...) -->
+    </classes>
+    <defaults>
+        <default name="dyn_radius" value="30" />
+        <default name="dyn_smin" value="0" />
+        <default name="dyn_smax" value="0" />
+        <default name="dyn_dmin" value="1" />
+        <default name="dyn_dmax" value="5" />
+        <default name="log_ce_loop" value="false"/>
+        <default name="log_ce_dynamicevent" value="false"/>
+        <default name="log_ce_vehicle" value="false"/>
+        <default name="log_ce_lootspawn" value="false"/>
+        <default name="log_ce_lootcleanup" value="false"/>
+        <default name="log_ce_lootrespawn" value="false"/>
+        <default name="log_ce_statistics" value="false"/>
+        <default name="log_ce_zombie" value="false"/>
+        <default name="log_ce_animal" value="false"/>
+        <default name="log_storageinfo" value="false"/>
+        <default name="log_hivewarning" value="true"/>
+        <default name="log_missionfilewarning" value="true"/>
+        <default name="save_events_startup" value="true"/>
+        <default name="save_types_startup" value="true"/>
+    </defaults>
+    
+    <ce folder="Types_extra">
+        <file name="Morty_types.xml" type="types" />
+        <file name="Morty_cfgspawnabletypes.xml" type="spawnabletypes" />
+        <file name="Paragon.xml" type="types" />
+        <file name="Paragon_Arsenal.xml" type="types" />
+        <file name="Paragon_cfgspawnabletypes.xml" type="spawnabletypes" />
+        <file name="TraderPlus_types.xml" type="types" />
+        <file name="BBP_types.xml" type="types" />
+        <file name="Types-V6.xml" type="types" />
+        <file name="NVGTypes.xml" type="types" />
+        <file name="DrugsTypes.xml" type="types" />
+        <file name="Drippy.xml" type="types" />
+        <file name="RFFSTypes.xml" type="types" />
+        <file name="FortuneTypes.xml" type="types" />
+        <file name="CZ.xml" type="types" />
+        <file name="WaterCraftTypes.xml" type="types" />
+        <file name="RaGs_types.xml" type="types" />
+        <file name="Boomlays_types.xml" type="types" />
+        <file name="Currency.xml" type="types" />
+        <file name="DonationTypes.xml" type="types" />
+        <file name="DPPatches.xml" type="types" />
+        <file name="DPEquipmentNORAID.xml" type="types" />
+        <file name="TypesMutants.xml" type="types" />
+        <file name="RaidTools.xml" type="types" />
+        <file name="DHGSHuntingTypes.xml" type="types" />
+        <file name="Collectables.xml" type="types" />
+        <file name="geb_types.xml" type="types" />
+        <file name="Storage.xml" type="types" />
+        <file name="DCDigitalCamo.xml" type="types" />
+        <file name="DCDigitalCamoSpawnableTypes.xml" type="spawnabletypes" />
+        <file name="ApesScopes.xml" type="types" />
+        <file name="LBGarageTypes.xml" type="types" />
+        <file name="LBSpawnTypes.xml" type="types" />
+        <file name="HM_Bitcoin.xml" type="types" />
+    </ce>
+</economycore>

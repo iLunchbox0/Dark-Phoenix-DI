@@ -1,0 +1,2775 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+<!--Narcos-->
+<type name="Narcos_NBCBoots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Narcos_NBCGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Narcos_NBCJacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Narcos_NBCPants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Narcos_MilitaryBelt">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Narcos_6B43">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Narcos_GunBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Narcos_Killa">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Narcos_NBCHood">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Narco_Barrel">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<!-- Flags -->
+	<type name="ADMIN_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="SexyBed_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Anime_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="DeadPoolLove_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="NeonPunisher_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="NeonSwords_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="RickNMortyBlaster_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="RickNMortyUniverse_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="SexySpace_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Chairs4Gaming_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="GameStop_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="SwiftLifestyles_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<type name="Radar_Flag">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+<!--LASTREAPER123-->
+	<type name="DP_6B43_LastReaper">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_LastReaper_Jacket">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_LastReaper_Pants">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_LastReaper_boots">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_LastReaper_TacticalGloves">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_LastReaper_TactHelmet">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_LastReaper_Balaclava">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_LastReaper_MilitaryBelt">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_LastReaper_GunBag">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+<!--Incog-->
+	<type name="DP_6B43_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacPants_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacJacket_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Killa_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieHood_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieSuit_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieWrap_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GunBag_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BodyBelt_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BackPouch_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacBoots_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_ButtPouch_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_FrontPouch_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MapPouch_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_IFAK_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacticalGloves_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MagPouch_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Balaclava_Incog">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+<!--DOPE-->
+	<type name="DP_6B43_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacPants_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacJacket_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Killa_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieHood_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieSuit_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieWrap_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GunBag_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BodyBelt_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BackPouch_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacBoots_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_ButtPouch_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_FrontPouch_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MapPouch_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_IFAK_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacticalGloves_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MagPouch_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Balaclava_DOPE">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<!--MASH-->
+	<type name="DP_MASH_SeaChest">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MASHBarrel_Radar">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MASHBarrel_Hawkeye">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<!--NIGHTSTAR RP-->
+	<type name="DP_6B43_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacPants_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacJacket_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Scifi_H_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieHood_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieSuit_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieWrap_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GunBag_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BodyBelt_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BackPouch_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacBoots_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_ButtPouch_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_FrontPouch_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MapPouch_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_IFAK_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacticalGloves_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MagPouch_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Balaclava_MaleOutfit">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<!--DEATHCALLS4USPACE-->
+	<type name="DP_6B43_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacPants_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacJacket_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Killa_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieHood_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieSuit_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieWrap_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GunBag_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BodyBelt_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BackPouch_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacBoots_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_ButtPouch_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_FrontPouch_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MapPouch_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_IFAK_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacticalGloves_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MagPouch_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Balaclava_DeathCalls4U">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<!--Slavs-->
+	<type name="DP_6B43_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacPants_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacJacket_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Killa_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieHood_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieSuit_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieWrap_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GunBag_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BodyBelt_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BackPouch_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacBoots_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_ButtPouch_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_FrontPouch_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MapPouch_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_IFAK_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacticalGloves_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MagPouch_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Balaclava_Slavs">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<!--RADAR2-->
+	<type name="DP_6B43_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacPants_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacJacket_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Killa_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieHood_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieSuit_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieWrap_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GunBag_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BodyBelt_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BackPouch_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacBoots_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_ButtPouch_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_FrontPouch_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MapPouch_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_IFAK_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacticalGloves_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MagPouch_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Balaclava_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Scifi_H_Radar2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<!--TwisterDono-->
+	<type name="DP_6B43_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacPants_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacJacket_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Scifi_H_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieHood_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieSuit_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieWrap_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GunBag_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BodyBelt_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BackPouch_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacBoots_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_ButtPouch_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_FrontPouch_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MapPouch_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_IFAK_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacticalGloves_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MagPouch_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Balaclava_Twister">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Twister_SeaChest">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Twister_Barrel">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<!--Radar3-->
+	<type name="DP_6B43_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacPants_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacJacket_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Killa_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieHood_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieSuit_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieWrap_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GunBag_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BodyBelt_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BackPouch_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacBoots_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_ButtPouch_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_FrontPouch_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MapPouch_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_IFAK_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacticalGloves_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MagPouch_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Balaclava_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Scifi_H_Radar3">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<!--Abshooter13-->
+	<type name="DP_6B43_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacPants_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacJacket_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Killa_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieHood_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieSuit_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GhillieWrap_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_GunBag_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BodyBelt_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_BackPouch_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacBoots_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_ButtPouch_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_FrontPouch_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Patch_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MapPouch_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_IFAK_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_TacticalGloves_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_MagPouch_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="DP_Balaclava_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Scifi_H_Abshooter13">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+	<type name="Abshooter13_Flag">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>600</restock>
+		<min>0</min>             
+		<quantmin>-1</quantmin>   
+		<quantmax>-1</quantmax>   
+		<cost>100</cost>          
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+        <usage name="Military"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+    </type>
+ </types>

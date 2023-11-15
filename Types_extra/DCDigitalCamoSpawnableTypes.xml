@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+	<type name="DC_ACUDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_ACUDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_ACUDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_BlackDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_BlackDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_BlackDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_DarkACUDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_DarkACUDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_DarkACUDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_DesertDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_DesertDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_DesertDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_Grassy_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_Grassy_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_Grassy_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_MarpatDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_MarpatDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_MarpatDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_NavyDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_NavyDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_NavyDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_PinkDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_PinkDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_PinkDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_PureBlack_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_PureBlack_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_PureBlack_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_RedDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_RedDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_RedDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_RedGreyScale_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_RedGreyScale_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_RedGreyScale_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_ToxicDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_ToxicDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_ToxicDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_UrbanDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_UrbanDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_UrbanDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_WinterDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_WinterDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_WinterDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_WoodlandDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_WoodlandDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_WoodlandDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="DC_YellowDigital_PlateCarrierVest">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="1.00">
+			<item name="DC_YellowDigital_PlateCarrierHolster" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="DC_YellowDigital_Pouches" chance="1.00" />
+		</attachments>
+	</type>
+</spawnabletypes>

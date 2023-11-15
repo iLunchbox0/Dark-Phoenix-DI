@@ -1,0 +1,2126 @@
+<spawnabletypes>
+<!--Vests-->	
+	<type name="Paragon_6B43_Flora">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Flora" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Flora" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_6B43_Digital_Flora">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Digital_Flora" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Digital_Flora" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_6B43_Digital_Desert">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Digital_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Digital_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_6B43_Black">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_6B43_Fatigue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Fatigue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Fatigue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_6B43_Blue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_6B43_White">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_White" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_White" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_6B43_Navy">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Navy" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Navy" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_6B43_Black_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Black_WL" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Black_WL" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Slick_Black">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Slick_Blue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_Slick_Desert">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_Slick_Green">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_Slick_Fatigue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_Slick_Desert_camo">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_Slick_Navy">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_Slick_Black_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_IOTV_Black">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_IOTV_Blue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_IOTV_Desert">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_IOTV_Green">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_IOTV_Fatigue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type> 
+	<type name="Paragon_IOTV_Desert_Camo">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_IOTV_Navy">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_IOTV_Black_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_C6B43_Flora">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Flora" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Flora" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_C6B43_Digital_Flora">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Digital_Flora" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Digital_Flora" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_C6B43_Digital_Desert">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Digital_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Digital_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_C6B43_Black">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_C6B43_Fatigue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Fatigue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Fatigue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_C6B43_Blue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_C6B43_White">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_White" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_White" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_C6B43_Navy">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Navy" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Navy" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_C6B43_Black_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_ButtPouch_Black_WL" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_FrontPouch_Black_WL" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_DCS_Desert_camo">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_DCS_Black">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_DCS_Blue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_DCS_Green">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_DCS_Fatigue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_DCS_Navy">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_DCS_Black_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_Soviet_Black">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Soviet_Desert">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Soviet_Green">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Soviet_Blue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Soviet_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Soviet_Fatigue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Soviet_Navy">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Soviet_Black_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_TacTec_Desert_camo">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_TacTec_Desert">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_TacTec_Black">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_TacTec_Blue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_TacTec_Green">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_TacTec_Fatigue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_TacTec_Navy">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_TacTec_Black_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_DCS_L_Desert_camo">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_DCS_L_Black">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_DCS_L_Blue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_DCS_L_Green">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_DCS_L_Fatigue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_DCS_L_Navy">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_DCS_L_Black_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_JPC_Desert_camo">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_JPC_Desert">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_JPC_Black">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_JPC_Blue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_JPC_Green">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_JPC_Fatigue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_JPC_Navy">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_JPC_Black_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Bottle_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>
+<!--Helmets No NVGs-->
+	<type name="Paragon_Tac_H_Black">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Visor_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mandible_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_EarCovers_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_HP_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Tac_H_Desert">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Visor_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mandible_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_EarCovers_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_HP_Desert" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Tac_H_Green">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Visor_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mandible_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_EarCovers_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_HP_Green" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Tac_H_Blue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Visor_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mandible_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_EarCovers_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_HP_Blue" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Tac_H_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Visor_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mandible_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_EarCovers_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_HP_Green" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Tac_H_Fatigue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Visor_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mandible_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_EarCovers_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_HP_Black" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Tac_H_Navy">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Visor_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mandible_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_EarCovers_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_HP_Blue" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="Paragon_Tac_H_Black_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_Visor_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mandible_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_EarCovers_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_HP_Black" chance="0.50" />
+		</attachments>
+	</type>
+<!--Body Belt-->
+	<type name="Paragon_BodyBelt_Black">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_BodyBelt_Blue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_BodyBelt_Desert">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Desert" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Desert" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_BodyBelt_Green">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Green" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Green" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_BodyBelt_Fatigue">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_BodyBelt_Navy">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Blue" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Blue" chance="0.50" />
+		</attachments>
+	</type>	
+	<type name="Paragon_BodyBelt_Black_WL">
+		<damage min="0.0" max="0.0" />
+		<attachments chance="0.50">
+			<item name="Paragon_BackPouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_IFAK_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_Mag_Pouch_Black" chance="0.50" />
+		</attachments>
+		<attachments chance="0.50">
+			<item name="Paragon_MapPouch_Black" chance="0.50" />
+		</attachments>
+	</type>	
+</spawnabletypes>	

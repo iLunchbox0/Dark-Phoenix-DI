@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+<!-- Kits -->
+	<type name="HM_Auto_Storage_Kit_Rust">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_Kit_Camo1">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier7"/>
+	</type>
+    <type name="HM_Auto_Storage_Kit_Camo2">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier7"/>
+	</type>
+    <type name="HM_Auto_Storage_Kit_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_Kit_Grey">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier7"/>
+	</type>
+    <type name="HM_Auto_Storage_Kit_Carbon">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_Kit_2_Rust">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_Kit_2_Camo1">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier7"/>
+	</type>
+    <type name="HM_Auto_Storage_Kit_2_Camo2">
+		<nominal>1</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier7"/>
+	</type>
+    <type name="HM_Auto_Storage_Kit_2_Black">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_Kit_2_Grey">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<value name="Tier7"/>
+	</type>
+    <type name="HM_Auto_Storage_Kit_2_Green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_Kit_2_Carbon">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+<!-- Assembled -->
+    <type name="HM_Auto_Storage_Rust">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_Camo1">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_Camo2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_Black">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_Grey">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_Green">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_Carbon">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_2_Rust">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_2_Camo1">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_2_Camo2">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_2_Black">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_2_Grey">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_2_Green">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Auto_Storage_2_Carbon">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+    <type name="HM_Secure_1">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+	<!--HM GUN BENCH-->
+	<type name="HM_Workbench_Kit">
+        <nominal>8</nominal>
+        <lifetime>14400</lifetime>
+        <restock>600</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <category name="tools" />
+		<usage name="Farm" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+		<usage name="Industrial" />
+    </type>
+	<type name="HM_Workbench">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+	<!--Secure-->
+	<type name="HM_Secure_1">
+		<nominal>0</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags deloot="0" crafted="0" count_in_player="0" count_in_map="1" count_in_hoarder="0" count_in_cargo="0"/>
+		<category name="tools"/>
+		<usage name="Village"/>
+		<usage name="Town"/>
+	</type>
+	<!--Tarkkov-->
+	<type name="HM_Buried_Barrel">
+		<lifetime>14400</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+	</type>
+	
+</types>
